@@ -2,13 +2,11 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Michell Sá Leitão</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michell-saleitao&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 industrial engineer passionate about programming (in career transition)
+- 🔥 Industrial engineer passionate about programming (in career transition)
 
 - 🔭 I’m currently working with HSE and Improvement Processes (SHAman Engenharia)      
 
-- 👨‍💻 I'm creating my Project Repository
-
-- ▶️ I regularly post videos on [youtube.com/shamanengenharia](https://youtube.com/shamanengenharia)
+- ▶️ I regularly post videos on [youtube.com/shamanengenharia](https://youtube.com/channel/UCuFri_R9g_gpqiS5BR6_PyQ)
 
 - 💬 Ask me about **HTML, CSS, VS Code, JavaScript, SQL, Node.JS, VBA Excel**
 
@@ -41,22 +39,15 @@
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
-
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/michell.leitao.dev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/michell.leitao.dev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/shamanengenharia" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-shamanengenharia-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/shamanengenharia" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-shamanengenharia-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
-<a href="https://twitter.com/@leitao_michell" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-@leitao_michell-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-</p>
+## 👨🏽‍🦲 &nbsp;Social Links 
+<div align="left">  
+  
+[![Linkedin: devmichell](https://img.shields.io/badge/-devmichell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michell-leitao-dev/)](https://www.linkedin.com/in/michell-leitao-dev/)
+[![Twitter: @leitao_michell](https://img.shields.io/badge/-@leitao_michell-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/leitao_michell)](https://twitter.com/leitao_michell)
+[![instagram: shamanengenharia](https://img.shields.io/badge/-shamanengenharia-blue?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shamanengenharia/)](https://www.instagram.com/shamanengenharia/) [![youtube: shamanengenharia](https://img.shields.io/badge/-shamanengenharia-blue?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCuFri_R9g_gpqiS5BR6_PyQ/)](https://www.youtube.com/channel/UCuFri_R9g_gpqiS5BR6_PyQ/)
+  
+<br>
+</div>  
 
 <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=@leitao_michell&layout=wide&show_reply=off&show_retweet=off" />
 
