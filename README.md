@@ -8,9 +8,7 @@
 
 - ▶️ I regularly post videos on [youtube.com/shamanengenharia](https://youtube.com/channel/UCuFri_R9g_gpqiS5BR6_PyQ)
 
-- 💬 Ask me about **HTML, CSS, VS Code, JavaScript, SQL, Node.JS, VBA Excel**
-
-- ⚡ Fun fact **bionic knee 😜**
+- 💬 Ask me about **HTML, CSS, VS Code, JavaScript, SQL, Node.JS**
 
 <br><br>
 
